@@ -1,0 +1,13 @@
+.header{
+    background-color: #800000;
+    /*background-color: rgb(97, 156, 224);*/
+    display: flex;
+    justify-content: center;
+}
+.cor{
+    color: lavender;
+}
+.menu{
+    padding-right:45px;
+    margin:30px;
+}
